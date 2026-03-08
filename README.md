@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/TodoEconometria/ejercicios-bigdata/main/docs/assets/todoeconometria_logo.png" alt="TodoEconometria" width="350">
+
 *"Sin experiencia no hay conocimiento"*
 
 ## CURSO COMPLETO DE SPRING BOOT + HIBERNATE
@@ -81,16 +83,8 @@
 | 7 | Maven + Pizzeria | Pizzeria v4 (Maven + dependencias) |
 | 8 | Maven avanzado | mi-biblioteca (scopes, lifecycle, JUnit 5) |
 | 9 | Hibernate intro | curso-hibernate (ORM, EntityManager, CRUD) |
-| 10 | Pizzeria + Hibernate | Pizzeria v5 (Hibernate + H2) |
-| 11 | Spring Boot intro | demo-spring (IoC, Lombok, REST, DBeaver) |
-| 12 | Pizzeria → Spring Boot | Pizzeria v6 (API REST completa) |
-| 13-14 | Proyecto personal | Blueprint individual (16 opciones) |
-| 15 | Docker intro | Dockerfile, build, run |
-| 16 | Docker Compose | PostgreSQL + Adminer + app |
-| 17 | CI/CD | GitHub Actions |
-| 18 | Proyecto + Docker + CI/CD | Integracion completa |
-| 19 | Preparar presentacion | — |
-| 20 | Demo Day | Presentacion final |
+
+> Los dias 10-20 se publicaran a medida que avance el curso.
 
 ---
 
@@ -201,5 +195,7 @@ Ver enunciado completo en [`trabajo_final/README.md`](trabajo_final/README.md).
 <div align="center">
 
 **© 2026 Juan Marcelo Gutierrez Miranda** — Open Educational Material (MIT License)
+
+**Hash ID:** 7a3f1b9c4d8e2f5a6b0c9d8e7f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a
 
 </div>
