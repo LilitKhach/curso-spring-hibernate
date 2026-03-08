@@ -8,6 +8,7 @@
 
 ## CURSO COMPLETO DE SPRING BOOT + HIBERNATE
 
+[![Web del Curso](https://img.shields.io/badge/Web-del%20Curso-green?style=for-the-badge&logo=github-pages&logoColor=white)](https://todoeconometria.github.io/curso-spring-hibernate/)
 [![GitHub Stars](https://img.shields.io/github/stars/TodoEconometria/curso-spring-hibernate?style=for-the-badge&logo=github)](https://github.com/TodoEconometria/curso-spring-hibernate/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TodoEconometria/curso-spring-hibernate?style=for-the-badge&logo=github)](https://github.com/TodoEconometria/curso-spring-hibernate/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
