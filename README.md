@@ -11,10 +11,12 @@
 [![Web del Curso](https://img.shields.io/badge/Web-del%20Curso-green?style=for-the-badge&logo=github-pages&logoColor=white)](https://todoeconometria.github.io/curso-spring-hibernate/)
 [![GitHub Stars](https://img.shields.io/github/stars/TodoEconometria/curso-spring-hibernate?style=for-the-badge&logo=github)](https://github.com/TodoEconometria/curso-spring-hibernate/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TodoEconometria/curso-spring-hibernate?style=for-the-badge&logo=github)](https://github.com/TodoEconometria/curso-spring-hibernate/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot 4](https://img.shields.io/badge/Spring%20Boot-4.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+### [**Ver Sitio Web del Curso**](https://todoeconometria.github.io/curso-spring-hibernate/)
 
 </div>
 
@@ -195,7 +197,7 @@ Ver enunciado completo en [`trabajo_final/README.md`](trabajo_final/README.md).
 
 <div align="center">
 
-**© 2026 Juan Marcelo Gutierrez Miranda** — Open Educational Material (MIT License)
+**© 2026 Juan Marcelo Gutierrez Miranda** — Material Educativo — CC BY-NC-SA 4.0
 
 **Hash ID:** 7a3f1b9c4d8e2f5a6b0c9d8e7f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a
 
