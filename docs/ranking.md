@@ -102,7 +102,7 @@ details[open] > summary {
 Spring Boot + Hibernate — De Java a Docker
 </p>
 <p style="color: #666; font-size: 0.9em;">
-Ultima actualizacion: 2026-03-18 19:30 | Evaluacion automatica
+Ultima actualizacion: 2026-03-18 19:59 | Evaluacion automatica
 </p>
 </div>
 
@@ -170,7 +170,7 @@ Ultima actualizacion: 2026-03-18 19:30 | Evaluacion automatica
 
 <p style="text-align: center; color: #555; font-size: 0.85em; margin-top: 40px;">
 El ranking se actualiza con cada evaluacion. Sube tu proyecto para aparecer!<br>
-<em>Generado por: evaluar.py + generar_ranking.py | 2026-03-18 19:30</em>
+<em>Generado por: QUASAR (Quality Unified Automated Student Assessment & Ranking) | 2026-03-18 19:59</em>
 </p>
 
 ---
