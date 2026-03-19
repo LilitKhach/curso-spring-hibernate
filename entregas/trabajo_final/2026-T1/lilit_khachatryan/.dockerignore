@@ -21,13 +21,13 @@ out/
 # Git (historial, no necesario para construir la imagen)
 # =============================================
 .git/
-.gitignore
+../../../../.gitignore
 
 # =============================================
 # Docker (evitar recursion y archivos de compose)
 # =============================================
-docker-compose.yml
-docker-compose*.yml
+entregas/trabajo_final/2026-T1/lilit_khachatryan/docker-compose.yml
+entregas/trabajo_final/2026-T1/lilit_khachatryan/docker-compose.yml
 .dockerignore
 
 # =============================================
