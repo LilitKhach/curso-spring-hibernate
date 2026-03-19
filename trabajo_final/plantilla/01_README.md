@@ -1,13 +1,13 @@
-# Trabajo Final — [Lilit Khachatryan]‌‌‌​‌​‌‌​﻿‍‍‌‍​‍​﻿​﻿​﻿​‍​﻿‌‌‌‍‌​‌‍​‍‌‍‌‍‌‍​‌​﻿‌‌​﻿‍‌‌‍​‌‌‍​‌​﻿​‍‌‍‌​​﻿‍‌‌‍‌‌
+# Trabajo Final — Lilit Khachatryan‌‌‌​‌​‌‌​﻿‍‍‌‍​‍​﻿​﻿​﻿​‍​﻿‌‌‌‍‌​‌‍​‍‌‍‌‍‌‍​‌​﻿‌‌​﻿‍‌‌‍​‌‌‍​‌​﻿​‍‌‍‌​​﻿‍‌‌‍‌‌
 
 ## Blueprint elegido
-[Analizador Financiero]
+Analizador Financiero
 
 ## Descripcion
-[Panel de control para la gestión de socias, contratos y transacciones financieras.
+Panel de control para la gestión de socias, contratos y transacciones financieras.
 Esta API permite gestionar socios, contratos y transacciones. 
 Las pequeñas y medianas empresas pueden usarla para visualizar sus datos en un panel de control, 
-filtrarlos y descubrir socios más beneficiosos según diferentes fechas.]
+filtrarlos y descubrir socios más beneficiosos según diferentes fechas.
 
 ## Entidades
 
