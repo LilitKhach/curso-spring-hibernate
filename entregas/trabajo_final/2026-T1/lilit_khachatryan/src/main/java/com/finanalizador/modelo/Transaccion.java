@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 @Entity
 @Table(name = "transacciones")
 @Data
@@ -27,5 +29,6 @@ public class Transaccion {
 
     @ManyToOne
     @JoinColumn(name = "contrato_id")
+    @JsonBackReference
     private Contrato contrato;
 }

@@ -7,6 +7,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import java.util.List;
 
 @Entity
@@ -17,7 +18,7 @@ import java.util.List;
 public class Socia {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id;
+    private Long id;
 
     @NotBlank(message = "El nombre de la Socia es obligatorio")
     @Size(min = 2, message = "El nombre debe tener mas de 2 letras")
@@ -30,5 +31,6 @@ public class Socia {
     private String apellido;
 
     @OneToMany(mappedBy = "socia")
+    @JsonManagedReference
     private List<Contrato> contratos;
 }
