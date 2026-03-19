@@ -36,7 +36,7 @@ services:
     restart: on-failure
 
   # =====================================================
-  # Servicio 2: Base de datos PostgreSQL
+  # Servicio 3: Base de datos PostgreSQL
   # =====================================================
   db:
     image: postgres:16-alpine
@@ -55,7 +55,7 @@ services:
       retries: 5
 
   # =====================================================
-  # Servicio 3: Adminer (panel web para ver la BD)
+  # Servicio 4: Adminer (panel web para ver la BD)
   # =====================================================
   adminer:
     image: adminer
